@@ -7,16 +7,22 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 1024px;
+	height: auto;
+	background-color: #FFFFFF;
 	}
 #header {
 	width: 1024px;
 	background-color: #CCCCCC;
-}
+	}
 
 #maintext {
-	min-width: 1024px;
+	width: 980px;
 	font-size: large;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
 	text-align: justify;
+	
 	}
 
 
@@ -32,6 +38,6 @@ body {
 #image {
 	margin-left: auto;
 	margin-right: auto;
-	width: 1024px;
+	width: 980px;
 	text-align: center;
 }
