@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 @charset "utf-8";
 body {
-	font-family: Roboto
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif
 }
 #container {
 	margin-left: auto;
@@ -29,4 +29,9 @@ body {
 	
 }
 
-
+#image {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	text-align: center;
+}
