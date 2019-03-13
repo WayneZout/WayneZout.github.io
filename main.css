@@ -3,17 +3,25 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 1024px;
+	}
+#header {
+	width: 1024px;
+	background-color: #CCCCCC;
 }
+
 #maintext {
 	min-width: 1024px;
 	font-size: large;
-}
+	}
+
 
 #navigation {
 	width: 1024px;
 	height: 30px;
 	font-size: x-large;
 	text-align: center;
+	background-color: #CCCCCC;
+	
 }
 
 body {
