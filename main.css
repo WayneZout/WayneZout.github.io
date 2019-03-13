@@ -12,12 +12,13 @@
 #maintext {
 	min-width: 1024px;
 	font-size: large;
+	text-align: justify;
 	}
 
 
 #navigation {
 	width: 1024px;
-	height: 30px;
+	height: 40px;
 	font-size: x-large;
 	text-align: center;
 	background-color: #CCCCCC;
