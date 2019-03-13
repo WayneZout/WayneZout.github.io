@@ -26,6 +26,12 @@ a:active {
 	text-decoration: none;
 }
 
+/* Set headers */
+h1 {
+	font-size: 22px;
+	font-weight: bold;
+}
+
 /* Set the main container styles */
 .container {
 	width: 1024px;
